@@ -1,1 +1,2 @@
-# deep_convolutional_GANs
+# Deep Convolutional GANs
+## Udacity Deep Learning Nanodegree
